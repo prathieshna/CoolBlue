@@ -2,13 +2,12 @@
 The purpose of the assignment was to create an Android application that would allow the user to search for products and scroll through them so that they can find something interesting to buy.
 
 # Architecture
-Redux is an architecture in which all of the app's state lives in one container. The only way to change state is to create a new state based on the current state and a requested change. The Store holds all of your app's state. An Action is immutable data that describes a state change.
+Redux is an architecture in which all of the app's state lives in one container. The only way to change state is to create a new state based on the current state and a requested change. The Store holds all of the app's state. An Action is immutable data that describes a state change.
 
 Redux was inspired by Flux. It has studied the Flux architecture and removed unnecessary complexity. The major differences:
-
-Redux does not have a Dispatcher concept.
-Redux has only one Store whereas Flux has many Stores.
-The Action objects will be received and handled directly by Store.
+- Redux does not have a Dispatcher concept.
+- Redux has only one Store whereas Flux has many Stores.
+- The Action objects will be received and handled directly by Store.
 
 <img src="/docs/Architecture.png" height="400" />
 
