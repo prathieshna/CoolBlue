@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Coolblue" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/BLUE</item>
+        <item name="colorPrimaryVariant">@color/LIGHTGREY</item>
+        <item name="colorOnPrimary">@color/WHITE</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ORANGE</item>
+        <item name="colorSecondaryVariant">@color/LIGHTGREY</item>
+        <item name="colorOnSecondary">@color/WHITE</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SearchActivityCustomTheme" parent="Theme.Coolblue">
+        <item name="android:windowBackground">@color/SearchBarBackground</item>
+    </style>
+</resources>

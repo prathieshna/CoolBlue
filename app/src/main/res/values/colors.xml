@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="GREEN">#4FDA1D</color>
+    <color name="BLUE">#14B2FB</color>
+    <color name="ORANGE">#FF3C00</color>
+    <color name="TRANSPARENTORANGE">#59FF5800</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="LIGHTGREY">#4C4C4C</color>
+    <color name="BLACK">#000000</color>
+
+    <color name="SearchBarBackground">#14B2FB</color>
+    <color name="SearchItemCellBackground">#FFFFFF</color>
+    <color name="SearchCellDividerColor">#0E0E0E</color>
+    <color name="bulletColour">#000000</color>
+</resources>

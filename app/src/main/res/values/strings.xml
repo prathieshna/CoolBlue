@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coolblue</string>
+    <string name="unexpected_error">Unexpected Error</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="close_icon">close icon</string>
+    <string name="search_icon">search icon</string>
+    <string name="search_here">What are you looking for?</string>
+    <string name="not_available">Information is not available</string>
+    <string name="add_to_cart_button">Add To Cart</string>
+    <string name="product_image">Product Image</string>
+
+    <plurals name="review_count">
+        <item quantity="one">%d Review</item>
+        <item quantity="zero">No Reviews</item>
+        <item quantity="other">%d Reviews</item>
+    </plurals>
+
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="delivered_tomorrow">Delivered Tomorrow</string>
+    <string name="coolblue_s">Coolblue\'s</string>
+    <string name="choice">Choice</string>
+</resources>

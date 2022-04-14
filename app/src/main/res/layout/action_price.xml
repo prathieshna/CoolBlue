@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="5dp"
+    android:id="@+id/tv_actionPrice"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fontFamily="@font/source_sans_pro_bold"
+    android:background="@drawable/ll_action_price_background"
+    android:textColor="@color/ORANGE"
+    android:padding="5dp"
+    android:textSize="12sp">
+</TextView>
